@@ -177,6 +177,9 @@ The **PROJECT RUBRIC** has mentioned that the submitted project must address the
 
 #### My ETL pipeline includes 18 tasks:
 
+
+![ETL PIPELINE](https://user-images.githubusercontent.com/21154169/66620769-01fced00-ebe2-11e9-8a69-0b186705492b.png)
+
 - ```START_OPERATOR```,```MID_OPERATOR```, ```END_OPERATOR``` are just dummy tasks, starting and ensuring all tasks are syncronized with each other and finishing the execution. </br>
 
 - ```Create_Reviews_STG_Table```, ```Create_Calendars_STG_Table```, ```Create_Hosts_STG_Table``` and ```Create_Neighbourhoods_STG_Table``` are tasks responsible for creating STG tables on the Redshift cluster. </br>
